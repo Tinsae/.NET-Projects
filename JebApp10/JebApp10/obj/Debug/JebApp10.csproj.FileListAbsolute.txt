@@ -1,0 +1,7 @@
+c:\users\tinsae\source\repos\JebApp10\JebApp10\bin\Debug\JebApp10.exe.config
+c:\users\tinsae\source\repos\JebApp10\JebApp10\bin\Debug\JebApp10.exe
+c:\users\tinsae\source\repos\JebApp10\JebApp10\bin\Debug\JebApp10.pdb
+c:\users\tinsae\source\repos\JebApp10\JebApp10\obj\Debug\JebApp10.csprojAssemblyReference.cache
+c:\users\tinsae\source\repos\JebApp10\JebApp10\obj\Debug\JebApp10.csproj.CoreCompileInputs.cache
+c:\users\tinsae\source\repos\JebApp10\JebApp10\obj\Debug\JebApp10.exe
+c:\users\tinsae\source\repos\JebApp10\JebApp10\obj\Debug\JebApp10.pdb
