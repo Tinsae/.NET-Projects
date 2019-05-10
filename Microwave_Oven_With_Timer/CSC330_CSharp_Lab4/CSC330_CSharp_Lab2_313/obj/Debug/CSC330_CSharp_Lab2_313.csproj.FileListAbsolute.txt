@@ -1,0 +1,9 @@
+C:\Users\diabl\source\repos\CSC330_CSharp_Lab2\CSC330_CSharp_Lab2_313\bin\Debug\CSC330_CSharp_Lab2_313.exe.config
+C:\Users\diabl\source\repos\CSC330_CSharp_Lab2\CSC330_CSharp_Lab2_313\bin\Debug\CSC330_CSharp_Lab2_313.exe
+C:\Users\diabl\source\repos\CSC330_CSharp_Lab2\CSC330_CSharp_Lab2_313\bin\Debug\CSC330_CSharp_Lab2_313.pdb
+C:\Users\diabl\source\repos\CSC330_CSharp_Lab2\CSC330_CSharp_Lab2_313\obj\Debug\CSC330_CSharp_Lab2_313.MicrowaveOven.resources
+C:\Users\diabl\source\repos\CSC330_CSharp_Lab2\CSC330_CSharp_Lab2_313\obj\Debug\CSC330_CSharp_Lab2_313.Properties.Resources.resources
+C:\Users\diabl\source\repos\CSC330_CSharp_Lab2\CSC330_CSharp_Lab2_313\obj\Debug\CSC330_CSharp_Lab2_313.csproj.GenerateResource.cache
+C:\Users\diabl\source\repos\CSC330_CSharp_Lab2\CSC330_CSharp_Lab2_313\obj\Debug\CSC330_CSharp_Lab2_313.csproj.CoreCompileInputs.cache
+C:\Users\diabl\source\repos\CSC330_CSharp_Lab2\CSC330_CSharp_Lab2_313\obj\Debug\CSC330_CSharp_Lab2_313.exe
+C:\Users\diabl\source\repos\CSC330_CSharp_Lab2\CSC330_CSharp_Lab2_313\obj\Debug\CSC330_CSharp_Lab2_313.pdb

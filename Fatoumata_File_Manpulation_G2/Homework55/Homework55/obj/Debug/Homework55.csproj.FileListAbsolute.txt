@@ -1,0 +1,10 @@
+C:\Users\Tinsae\source\repos\Homework55\Homework55\obj\Debug\Homework55.csprojAssemblyReference.cache
+C:\Users\Tinsae\source\repos\Homework55\Homework55\obj\Debug\Homework55.Form1.resources
+C:\Users\Tinsae\source\repos\Homework55\Homework55\obj\Debug\Homework55.Properties.Resources.resources
+C:\Users\Tinsae\source\repos\Homework55\Homework55\obj\Debug\Homework55.csproj.GenerateResource.cache
+C:\Users\Tinsae\source\repos\Homework55\Homework55\obj\Debug\Homework55.csproj.CoreCompileInputs.cache
+C:\Users\Tinsae\source\repos\Homework55\Homework55\bin\Debug\Homework55.exe.config
+C:\Users\Tinsae\source\repos\Homework55\Homework55\bin\Debug\Homework55.exe
+C:\Users\Tinsae\source\repos\Homework55\Homework55\bin\Debug\Homework55.pdb
+C:\Users\Tinsae\source\repos\Homework55\Homework55\obj\Debug\Homework55.exe
+C:\Users\Tinsae\source\repos\Homework55\Homework55\obj\Debug\Homework55.pdb

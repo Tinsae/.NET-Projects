@@ -1,0 +1,7 @@
+C:\Users\Tinsae\source\repos\Draggoo_Assignment_02\Draggoo_Assignment_02\bin\Debug\Draggoo_Assignment_02.exe.config
+C:\Users\Tinsae\source\repos\Draggoo_Assignment_02\Draggoo_Assignment_02\bin\Debug\Draggoo_Assignment_02.exe
+C:\Users\Tinsae\source\repos\Draggoo_Assignment_02\Draggoo_Assignment_02\bin\Debug\Draggoo_Assignment_02.pdb
+C:\Users\Tinsae\source\repos\Draggoo_Assignment_02\Draggoo_Assignment_02\obj\Debug\Draggoo_Assignment_02.csprojAssemblyReference.cache
+C:\Users\Tinsae\source\repos\Draggoo_Assignment_02\Draggoo_Assignment_02\obj\Debug\Draggoo_Assignment_02.csproj.CoreCompileInputs.cache
+C:\Users\Tinsae\source\repos\Draggoo_Assignment_02\Draggoo_Assignment_02\obj\Debug\Draggoo_Assignment_02.exe
+C:\Users\Tinsae\source\repos\Draggoo_Assignment_02\Draggoo_Assignment_02\obj\Debug\Draggoo_Assignment_02.pdb
